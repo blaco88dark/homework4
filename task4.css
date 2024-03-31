@@ -1,0 +1,49 @@
+.ulls{
+    margin-left: 1300px;
+    display: flex;
+}
+img{
+    display:inline;
+}
+.maincontainer{
+    background: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+.firstbox{
+    display: inline;
+}
+.picture{
+    text-align: center;
+}
+.pic1{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+.image-container{
+    position: relative;
+    display: inline-block;
+}
+.pic2{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+.overlay-text{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.pic3{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
